@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sundays_Couter/static/css/main.e6c13ad2.css",
-    "main.js": "/Sundays_Couter/static/js/main.7d00a653.js",
-    "static/js/787.4411eae1.chunk.js": "/Sundays_Couter/static/js/787.4411eae1.chunk.js",
-    "index.html": "/Sundays_Couter/index.html",
-    "main.e6c13ad2.css.map": "/Sundays_Couter/static/css/main.e6c13ad2.css.map",
-    "main.7d00a653.js.map": "/Sundays_Couter/static/js/main.7d00a653.js.map",
-    "787.4411eae1.chunk.js.map": "/Sundays_Couter/static/js/787.4411eae1.chunk.js.map"
+    "main.css": "/sundays-couter/static/css/main.e6c13ad2.css",
+    "main.js": "/sundays-couter/static/js/main.88996f9d.js",
+    "static/js/787.c709a6b9.chunk.js": "/sundays-couter/static/js/787.c709a6b9.chunk.js",
+    "index.html": "/sundays-couter/index.html",
+    "main.e6c13ad2.css.map": "/sundays-couter/static/css/main.e6c13ad2.css.map",
+    "main.88996f9d.js.map": "/sundays-couter/static/js/main.88996f9d.js.map",
+    "787.c709a6b9.chunk.js.map": "/sundays-couter/static/js/787.c709a6b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7d00a653.js"
+    "static/js/main.88996f9d.js"
   ]
 }
