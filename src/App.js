@@ -5,21 +5,18 @@ import {
   Navigate,
   Routes,
 } from "react-router-dom";
-import Page from "./component/Page";
+import Page from "./component/Sundays";
 
 function App() {
-  let baseUrl = "";
-  if (window.location.href.includes("saadahmedsiddiqui.github.io")) {
-    baseUrl += "date-picker-assignment/";
-  }
+  const basePrefix = process.env.REACT_APP_BASE_PREFIX || "/";
 
   return (
     <Router>
       <Routes>
-        <Route path={`/${baseUrl}pages/Sundays`} element={<Page />} />
+        <Route path={`${basePrefix}pages/sundays`} element={<Page />} />
         <Route
           path="*"
-          element={<Navigate to={`/${baseUrl}pages/Sundays`} />}
+          element={<Navigate to={`${basePrefix}pages/sundays`} />}
         />
       </Routes>
     </Router>

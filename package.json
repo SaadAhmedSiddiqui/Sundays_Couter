@@ -1,13 +1,14 @@
 {
-  "name": "date-picker-assignment",
+  "name": "sundays-counter",
   "version": "1.1.0",
   "description": "",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/SaadAhmedSiddiqui/date-picker-assignment"
+    "url": "https://saadahmedsiddiqui.github.io/sundays-counter/"
   },
-  "homepage": "https://SaadAhmedSiddiqui.github.io/date-picker-assignment",
+  "myapp": "./src/index.js",
+  "homepage": "https://saadahmedsiddiqui.github.io/sundays-counter/",
   "author": "SaadAhmedSiddiqui",
   "dependencies": {
     "@emotion/react": "^11.11.1",
@@ -25,11 +26,12 @@
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && cp build/index.html build/404.html",
+    "build": "react-scripts build && cp src/404.html build/404.html",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
