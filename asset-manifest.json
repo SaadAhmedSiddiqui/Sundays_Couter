@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sundays-counter/static/css/main.e6c13ad2.css",
-    "main.js": "/sundays-counter/static/js/main.bdf001b3.js",
+    "main.js": "/sundays-counter/static/js/main.b04ca3b6.js",
     "static/js/787.c709a6b9.chunk.js": "/sundays-counter/static/js/787.c709a6b9.chunk.js",
     "index.html": "/sundays-counter/index.html",
     "main.e6c13ad2.css.map": "/sundays-counter/static/css/main.e6c13ad2.css.map",
-    "main.bdf001b3.js.map": "/sundays-counter/static/js/main.bdf001b3.js.map",
+    "main.b04ca3b6.js.map": "/sundays-counter/static/js/main.b04ca3b6.js.map",
     "787.c709a6b9.chunk.js.map": "/sundays-counter/static/js/787.c709a6b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.bdf001b3.js"
+    "static/js/main.b04ca3b6.js"
   ]
 }
