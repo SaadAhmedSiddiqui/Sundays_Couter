@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sundays_counter/static/css/main.e6c13ad2.css",
-    "main.js": "/sundays_counter/static/js/main.7c2e9a47.js",
-    "static/js/787.c709a6b9.chunk.js": "/sundays_counter/static/js/787.c709a6b9.chunk.js",
-    "index.html": "/sundays_counter/index.html",
-    "main.e6c13ad2.css.map": "/sundays_counter/static/css/main.e6c13ad2.css.map",
-    "main.7c2e9a47.js.map": "/sundays_counter/static/js/main.7c2e9a47.js.map",
-    "787.c709a6b9.chunk.js.map": "/sundays_counter/static/js/787.c709a6b9.chunk.js.map"
+    "main.css": "/Sundays_Couter/static/css/main.e6c13ad2.css",
+    "main.js": "/Sundays_Couter/static/js/main.7d00a653.js",
+    "static/js/787.4411eae1.chunk.js": "/Sundays_Couter/static/js/787.4411eae1.chunk.js",
+    "index.html": "/Sundays_Couter/index.html",
+    "main.e6c13ad2.css.map": "/Sundays_Couter/static/css/main.e6c13ad2.css.map",
+    "main.7d00a653.js.map": "/Sundays_Couter/static/js/main.7d00a653.js.map",
+    "787.4411eae1.chunk.js.map": "/Sundays_Couter/static/js/787.4411eae1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7c2e9a47.js"
+    "static/js/main.7d00a653.js"
   ]
 }
