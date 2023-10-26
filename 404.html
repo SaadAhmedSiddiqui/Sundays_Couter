@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+  <script>
+    const [basePathname] = window.location.pathname.match(/^\/[^\/]+/) || [];
+    window.location.pathname = basePathname;
+  </script>
+</html>
